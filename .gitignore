@@ -1,0 +1,22 @@
+# files to be ignored https://github.com/github/gitignore
+
+# Dependancy Directories
+node_modules/
+
+# env variables
+.env
+.env.test
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# compiled output
+/dist
+/tmp
+/out-tsc
