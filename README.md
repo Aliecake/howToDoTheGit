@@ -1,5 +1,11 @@
-# How to do the git
+# How do to the Git
 
-Fork the repo
-clone from your forked repo
-start working
+## Working with Marko so he can learn how to Git
+
+* Practice makes perfect
+
+## Setup
+
+* Fork The Repo
+* Clone from Fork
+* Git to it
